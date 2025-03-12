@@ -1,7 +1,7 @@
 # Advertisement Analytics Marketing Model for Customer Segmentation
 
 > **Note:** This is a prototype and not the actual code used in production.
-> **Note:** Please reach out to me (shkim1106@gmail.com) if you need full-stack real-world best practice.
+> **Note:** Please reach out to me (seunghyk@tepper.cmu.edu) if you need full-stack real-world best practice.
 
 ## Overview
 This repository provides a marketing analytics model that segments customers based on their interaction with advertisements. By leveraging machine learning techniques, the model clusters users into distinct groups, helping businesses optimize their targeted marketing strategies.
